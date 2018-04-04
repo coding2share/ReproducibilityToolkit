@@ -1,6 +1,6 @@
 # Modules
 
-To view the modules, download the .zip file of the repository and extract all contents.
+To view the modules, click on 'Clone or download,' download the .zip file, and extract all contents.
 
 If you prefer to read online:
 1. Click on one of the html files
