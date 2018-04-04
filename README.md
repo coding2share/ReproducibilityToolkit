@@ -5,5 +5,4 @@ To view the modules, download the .zip file of the repository and extract all co
 If you prefer to read online:
 1. Click on one of the html files
 2. View raw
-3. Copy and paste the URL to a new browser window
-4. Replace raw.githubusercontent.com with cdn.rawgit.com
+3. Replace raw.githubusercontent.com with cdn.rawgit.com in the URL
