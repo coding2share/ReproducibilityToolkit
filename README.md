@@ -7,4 +7,4 @@ If you prefer to read online:
 2. View raw
 3. Replace raw.githubusercontent.com with cdn.rawgit.com in the URL
 
-https://github.com/coding2share/ReproducibilityToolkit
+https://coding2share.github.io/ReproducibilityToolkit/
